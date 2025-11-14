@@ -1,4 +1,4 @@
-// Challenge: https://leetcode.com/problems/two-sum/description/
+package arrays;// Challenge: https://leetcode.com/problems/two-sum/description/
 
 public class TwoSum {
     public int[] twoSum(int[] nums, int target) {

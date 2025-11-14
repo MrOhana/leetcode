@@ -1,4 +1,4 @@
-// Challenge: https://leetcode.com/problems/contains-duplicate-ii/?envType=problem-list-v2&envId=sliding-window
+package arrays;// Challenge: https://leetcode.com/problems/contains-duplicate-ii/?envType=problem-list-v2&envId=sliding-window
 
 public class ContainsDuplicateII {
 
